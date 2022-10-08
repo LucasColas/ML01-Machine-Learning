@@ -1,2 +1,5 @@
 # ML01-Machine-Learning-for-everyone
-My codes for the ML01 course.
+
+ML01 is a course at UTC. Teachers : Khaled Belahcene and Cyprien Gilet.
+
+This repo contains my code for the ML01 course.
